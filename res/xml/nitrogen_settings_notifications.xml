@@ -44,6 +44,12 @@
         android:summary="@string/notification_sound_vib_screen_on_summary"
         android:defaultValue="true" />
 
+    <com.nitrogen.settings.preferences.SystemSettingSwitchPreference
+        android:key="pulse_on_new_tracks"
+        android:title="@string/pulse_on_new_tracks_title"
+        android:summary="@string/pulse_on_new_tracks_summary"
+        android:defaultValue="false" />
+
     <PreferenceCategory
         android:key="incall_vib_options"
         android:title="@string/incall_vibration_category" >

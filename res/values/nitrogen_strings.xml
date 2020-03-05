@@ -233,6 +233,10 @@
     <string name="status_bar_quick_qs_pulldown_off">Off</string>
     <string name="status_bar_quick_qs_pulldown_left">Left</string>
     <string name="status_bar_quick_qs_pulldown_right">Right</string>
-   <string name="status_bar_quick_qs_pulldown_always">Always</string>
+    <string name="status_bar_quick_qs_pulldown_always">Always</string>
+
+    <!-- Pulse ambient display on music change -->
+    <string name="pulse_on_new_tracks_title">Pulse ambient display on new song</string>
+    <string name="pulse_on_new_tracks_summary">When a new song is playing, wake up the screen to display the new info</string>
 
 </resources>
